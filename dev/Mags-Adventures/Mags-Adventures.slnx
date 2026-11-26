@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mags-Adventures/Mags-Adventures.vcxproj" Id="683bf61d-ec03-4613-99cd-9678b96b2570" />
+</Solution>
